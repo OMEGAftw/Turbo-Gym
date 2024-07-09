@@ -1,6 +1,6 @@
 # Turbo Gym
 
-This is a single page website of Gym with online `time-table` of the different classes.
+This is a single page website of Gym with online info.
 
 
 ## Languages Used
